@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328644315898",
+    "firebase_url": "https://easohbet-f9711.firebaseio.com",
+    "project_id": "easohbet-f9711",
+    "storage_bucket": "easohbet-f9711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328644315898:android:79938f9537135119",
+        "android_client_info": {
+          "package_name": "com.example.mainactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328644315898-cqon04aokesoii4e46a4djkflgnabjia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mainactivity",
+            "certificate_hash": "a8308efe19035168124ce026a77fe6384a50e3a0"
+          }
+        },
+        {
+          "client_id": "328644315898-r94r4guok2sj2i0lpp9q5fb8o9h28qbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3yacj15-NJFKlPTxmkokMkyysqlb_E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328644315898-r94r4guok2sj2i0lpp9q5fb8o9h28qbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
